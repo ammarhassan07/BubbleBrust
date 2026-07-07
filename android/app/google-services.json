@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "330871727728",
+    "project_id": "nadan-games",
+    "storage_bucket": "nadan-games.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330871727728:android:b435b4d8691d34aa7db6b5",
+        "android_client_info": {
+          "package_name": "com.crickprime.livecricket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXWvyda1ip8glJkirbAOonpWCnhQjEWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330871727728:android:bb22c222a560e1847db6b5",
+        "android_client_info": {
+          "package_name": "com.nadandev.blockblast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXWvyda1ip8glJkirbAOonpWCnhQjEWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330871727728:android:78bafd2c0060c9a27db6b5",
+        "android_client_info": {
+          "package_name": "com.nadandev.brainbooster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXWvyda1ip8glJkirbAOonpWCnhQjEWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330871727728:android:4528a878dde2b3937db6b5",
+        "android_client_info": {
+          "package_name": "com.nadandev.brick_ball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXWvyda1ip8glJkirbAOonpWCnhQjEWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330871727728:android:735f1a5e8101e1097db6b5",
+        "android_client_info": {
+          "package_name": "com.nadandev.bubble_burst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXWvyda1ip8glJkirbAOonpWCnhQjEWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330871727728:android:b4d1e2c271cda7257db6b5",
+        "android_client_info": {
+          "package_name": "com.nadandev.nadantvapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXWvyda1ip8glJkirbAOonpWCnhQjEWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
